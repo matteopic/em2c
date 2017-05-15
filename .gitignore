@@ -1,0 +1,8 @@
+# Eclipse
+/.settings/
+/.classpath
+/.project
+
+# Maven
+/target/
+/release.properties
